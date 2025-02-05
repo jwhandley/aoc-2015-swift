@@ -2,7 +2,7 @@ import Testing
 
 @testable import AdventOfCode
 
-struct Day01Tests {
+struct Day02Tests {
     // Smoke test data provided in the challenge question
     let testData = """
         2x3x4
